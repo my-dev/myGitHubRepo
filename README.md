@@ -1,2 +1,5 @@
-# myGitHubRepo
-GitHubテストリポジトリ
+myGitHubRepoへようこそ♪^^
+======
+
+# ようこそ～。
+
